@@ -1,0 +1,19 @@
+.main {
+    justify-content: flex-start;
+}
+
+.inputs {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.button {
+    width: 200px;
+    font-size: 18px;
+    margin-top: 40px;
+    border-radius: 3px;
+    padding: 10px 0px 10px 0px;
+    background-color: cadetblue;
+}

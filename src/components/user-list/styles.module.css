@@ -1,0 +1,29 @@
+.lineItem {
+    height: 40px;
+    display: flex;
+    font-size: 22px;
+    width: 50vw;
+    min-width: 400px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nameLabel {
+    font-size: 22px;
+}
+
+.usernameLabel {
+    color: gray;
+    font-size: 18px;
+}
+
+.editButton {
+    padding: 4px;
+    margin-right: 10px;
+}
+
+.delButton {
+    color: red;
+    cursor: pointer;
+    padding: 4px;
+}

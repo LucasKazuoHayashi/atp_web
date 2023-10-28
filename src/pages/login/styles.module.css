@@ -1,0 +1,15 @@
+.loginMain {
+  justify-content: flex-start;
+}
+
+.loginButton {
+  width: 200px;
+  font-size: 18px;
+  border-radius: 3px;
+  padding: 10px 0px 10px 0px;
+  background-color: cadetblue;
+}
+
+.buttonRole {
+  margin-right: 10px;
+}

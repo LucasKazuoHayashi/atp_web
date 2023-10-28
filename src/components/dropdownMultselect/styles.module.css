@@ -1,0 +1,14 @@
+.divInput {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  font-size: 22px;
+  margin-right: 10px;
+}
+
+.dropdown {
+  width: 232px;
+}

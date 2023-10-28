@@ -1,0 +1,24 @@
+{
+    "name": "aula_web_full06",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "start": "next dev",
+        "build": "next build",
+        "prod": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "latest",
+        "next-pwa": "^5.6.0",
+        "react": "latest",
+        "react-dom": "latest",
+        "react-select": "^5.7.7"
+    },
+    "devDependencies": {
+        "@types/node": "latest",
+        "@types/react": "latest",
+        "@types/react-dom": "latest",
+        "typescript": "latest"
+    }
+}
