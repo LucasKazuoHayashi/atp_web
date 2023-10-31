@@ -1,3 +1,11 @@
+```bash
+Integrantes:
+- Lina Suzuki
+- Lucas Henrique Kazuo Hayashi
+- Lucas Urbano de Almeida
+- Victor Oses Rodrigues Neto
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
